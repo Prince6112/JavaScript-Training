@@ -1,0 +1,4 @@
+OS uptime is 562490
+OS type is Windows_NT
+OS release is 10.0.19043
+OS free memory is 499445760
